@@ -1,0 +1,7 @@
+version: '2.4'
+
+services:
+  alpine:
+    image: generaltao725/webhook-test-image:test
+    environment:
+     - TEST_ENV=world
