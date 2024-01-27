@@ -2,5 +2,5 @@ version: '2.4'
 
 services:
   alpine:
-    image: alpine:3.18.4
+    image: alpine:3.19.1
     command: echo Hello world!
